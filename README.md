@@ -8,8 +8,8 @@ Mora em Contagem/MG, 33 anos, Cruzeirense. Graduado e mestre em Sistemas de Info
 
 ## Hobbies
 
-- Ver filmes 🎥
-- Jogar volei 🏐
+- Ver séries 📺
+- Jogar futebol :soccer:
 - Dormir 😴
 - Viajar 🚗
 - Ler 📗
@@ -20,3 +20,4 @@ Mora em Contagem/MG, 33 anos, Cruzeirense. Graduado e mestre em Sistemas de Info
 - Java, Javascript, Python
 - DevSecOps
 - YAML/ automação
+- Digitar 1000 palavras por min

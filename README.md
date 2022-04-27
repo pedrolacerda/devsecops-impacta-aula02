@@ -14,6 +14,7 @@ Mora em Contagem/MG, 33 anos, Cruzeirense. Graduado e mestre em Sistemas de Info
 - Viajar 🚗
 - Ler 📗
 - Cozinhar 🧑‍🍳 
+- kart
 
 ## Habilidades
 
@@ -21,3 +22,4 @@ Mora em Contagem/MG, 33 anos, Cruzeirense. Graduado e mestre em Sistemas de Info
 - DevSecOps
 - YAML/ automação
 - Digitar 1000 palavras por min
+- terraform

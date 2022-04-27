@@ -9,3 +9,9 @@ Este repositório é o portifólio de Pedro Lacerda
 - Dormir 😴
 - Ler 📗
 - Cozinhar 🧑‍🍳 
+
+## Habilidades
+
+- Java, Javascript, Python
+- DevSecOps
+- YAML/ automação

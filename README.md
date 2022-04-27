@@ -8,3 +8,4 @@ Este repositório é o portifólio de Pedro Lacerda
 - Jogar futebol ⚽
 - Dormir 😴
 - Ler 📗
+- Cozinhar 🧑‍🍳 

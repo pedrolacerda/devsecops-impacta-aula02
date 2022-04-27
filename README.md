@@ -1,6 +1,6 @@
 # DevSecOps Impacta Aula 02
 
-Repositório de demonstração de conceitos de Git e GitHub para a turma de Cyber
+Repositório de demonstração de conceitos de Git & GitHub para a turma de Cyber Security
 
 ## Este é um subtítulo
 

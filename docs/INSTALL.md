@@ -11,4 +11,3 @@ npm install
 npm run
 
 ```
-4. Teste da app 
